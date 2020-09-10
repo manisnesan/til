@@ -1,5 +1,4 @@
 # Today I Learned
----
 
 Collection of Today I Learned snippets inspired from [simonw/til](https://github.com/simonw/til)
 
