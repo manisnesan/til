@@ -10,6 +10,7 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 ## cuda 
 
 * [Run Tensorflow on GPU using CUDA](https://github.com/manisnesan/til/blob/master/cuda/tensorflow-on-gpu.md#run-tensorflow-on-gpu-using-nvidia-cuda) - 16/11/2020
+* [Minimize GPU RAM Fragmentation](https://github.com/manisnesan/til/blob/master/cuda/minimize-gpu-ram-fragmentation.md)- 27/11/2020
 
 ## fastai
 
