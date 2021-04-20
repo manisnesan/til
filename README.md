@@ -14,8 +14,9 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 
 ## fastai
 
-- [Add weighted cross entropy in fastai for unbalanced dataset](https://github.com/manisnesan/til/blob/master/fastai/add-weighted-loss-function-to-fastai-learner.md) - 13/09/2020
+- [Category Transforms with reversible mappings](https://github.com/manisnesan/til/blob/master/fastai/category-map-transforms.md) - 20/03/2021
 - [Application facing out of memory issues](https://github.com/manisnesan/til/blob/master/fastai/oom-in-application.md) - 16/12/2020
+- [Add weighted cross entropy in fastai for unbalanced dataset](https://github.com/manisnesan/til/blob/master/fastai/add-weighted-loss-function-to-fastai-learner.md) - 13/09/2020
 
 ## python
 
