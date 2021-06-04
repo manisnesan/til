@@ -12,6 +12,10 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 - [Run Tensorflow on GPU using CUDA](https://github.com/manisnesan/til/blob/master/cuda/tensorflow-on-gpu.md#run-tensorflow-on-gpu-using-nvidia-cuda) - 16/11/2020
 - [Minimize GPU RAM Fragmentation](https://github.com/manisnesan/til/blob/master/cuda/minimize-gpu-ram-fragmentation.md)- 27/11/2020
 
+## git
+
+- [Clean large blobs from Git repository](https://github.com/manisnesan/til/blob/master/git/clean-large-blobs-from-git-repo.md) - 04/06/2021
+
 ## fastai
 
 - [Category Transforms with reversible mappings](https://github.com/manisnesan/til/blob/master/fastai/category-map-transforms.md) - 20/03/2021
