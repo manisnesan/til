@@ -2,10 +2,8 @@
 
 ## Problem Scenario
 
-One of the developer mistakenly added 5 large files that are greater than 500MB in git repository and push it to the remote branch.
-Realizing the mistaken they removed the files in the following commit.
-
-But this will not remove the file completely from git objects stored and it will still cause the cloning and continuous integration painful taking longer time.
+One of the developer mistakenly added 5 large files that are greater than 500MB in git repository and pushed them to the remote branch.
+Realizing the mistaken they removed the files in the following commit. But this will not remove the file completely from git objects stored and it will still cause cloning repository and continuous integration to be painfully long.
 
 ## Options
 
