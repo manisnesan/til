@@ -22,6 +22,10 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 - [Application facing out of memory issues](https://github.com/manisnesan/til/blob/master/fastai/oom-in-application.md) - 16/12/2020
 - [Add weighted cross entropy in fastai for unbalanced dataset](https://github.com/manisnesan/til/blob/master/fastai/add-weighted-loss-function-to-fastai-learner.md) - 13/09/2020
 
+## information-retrieval
+
+- [IR Datasets](https://github.com/manisnesan/til/blob/master/ir/information-retrieval-datasets.md) - 02/10/2021
+
 ## python
 
 - [Poetry first impressions](https://manisnesan.github.io/chrestotes/python/reproducibility/2021/01/09/poetry-first-impressions.html#key-requirements) - 09/01/2021
