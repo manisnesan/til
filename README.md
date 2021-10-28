@@ -34,4 +34,4 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 
 ## pytorch
 
-- [Effective pytorch](https://github.com/vahidk/EffectivePyTorch) - Talks about basics, automatic differentiation, encapsulating the model iwth modules, broadcasting, operator overloading, torchscript, custom dataloaders 
+- [Effective pytorch](https://github.com/vahidk/EffectivePyTorch) : Talks about basics, automatic differentiation, encapsulating the model iwth modules, broadcasting, operator overloading, torchscript, custom dataloaders - 10/27/2021 
