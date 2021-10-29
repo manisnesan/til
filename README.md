@@ -29,7 +29,8 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 ## python
 
 - [Poetry first impressions](https://manisnesan.github.io/chrestotes/python/reproducibility/2021/01/09/poetry-first-impressions.html#key-requirements) - 09/01/2021
-- [Readable and Maintainble Jupypter Notebooks](https://github.com/manisnesan/til/blob/master/python/readable-and-maintainable-jupyter-notebooks.md)
+- [Readable and Maintainble Jupypter Notebooks](https://github.com/manisnesan/til/blob/master/python/readable-and-maintainable-jupyter-notebooks.md) - 10/11/2021
+- [Add CLI to your application using Typer](https://github.com/manisnesan/til/blob/master/python/cli-using-typer.md) - 10/28/2021
 
 
 ## pytorch
