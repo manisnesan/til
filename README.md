@@ -15,6 +15,7 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 ## git
 
 - [Clean large blobs from Git repository](https://github.com/manisnesan/til/blob/master/git/clean-large-blobs-from-git-repo.md) - 04/06/2021
+- [Setting username and password for git repository](https://github.com/manisnesan/til/blob/master/git/setting-user-pass-for-git-repository.md) - 05/11/2021
 
 ## fastai
 
@@ -29,11 +30,11 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 ## python
 
 - [Poetry first impressions](https://manisnesan.github.io/chrestotes/python/reproducibility/2021/01/09/poetry-first-impressions.html#key-requirements) - 09/01/2021
-- [Readable and Maintainble Jupypter Notebooks](https://github.com/manisnesan/til/blob/master/python/readable-and-maintainable-jupyter-notebooks.md) - 10/11/2021
-- [Add CLI to your application using Typer](https://github.com/manisnesan/til/blob/master/python/cli-using-typer.md) - 10/28/2021
-- [Datetime Conversions](https://github.com/manisnesan/til/blob/master/python/datetime-conversions.md) - 11/02/2021
+- [Readable and Maintainble Jupypter Notebooks](https://github.com/manisnesan/til/blob/master/python/readable-and-maintainable-jupyter-notebooks.md) - 11/10/2021
+- [Add CLI to your application using Typer](https://github.com/manisnesan/til/blob/master/python/cli-using-typer.md) - 28/10/2021
+- [Datetime Conversions](https://github.com/manisnesan/til/blob/master/python/datetime-conversions.md) - 02/11/2021
 
 
 ## pytorch
 
-- [Effective pytorch](https://github.com/vahidk/EffectivePyTorch) : Talks about basics, automatic differentiation, encapsulating the model iwth modules, broadcasting, operator overloading, torchscript, custom dataloaders - 10/27/2021 
+- [Effective pytorch](https://github.com/vahidk/EffectivePyTorch) : Talks about basics, automatic differentiation, encapsulating the model iwth modules, broadcasting, operator overloading, torchscript, custom dataloaders - 27/10/2021 
