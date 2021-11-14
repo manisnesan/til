@@ -38,3 +38,7 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 ## pytorch
 
 - [Effective pytorch](https://github.com/vahidk/EffectivePyTorch) : Talks about basics, automatic differentiation, encapsulating the model iwth modules, broadcasting, operator overloading, torchscript, custom dataloaders - 27/10/2021 
+
+## yaml
+
+- [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/) : Talks about basics of yaml, how to duplicate content across the document using 'anchors', regexp <<  indicating that all the keys of one or more specified maps should be inserted into the current map and more
