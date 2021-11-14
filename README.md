@@ -41,4 +41,4 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 
 ## yaml
 
-- [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/) : Talks about basics of yaml, how to duplicate content across the document using 'anchors', regexp <<  indicating that all the keys of one or more specified maps should be inserted into the current map and more
+- [Learn yaml in Y minutes](https://learnxinyminutes.com/docs/yaml/) : Talks about basics of yaml, how to duplicate content across the document using 'anchors', regexp <<  indicating that all the keys of one or more specified maps should be inserted into the current map and more. - 13/11/2021
