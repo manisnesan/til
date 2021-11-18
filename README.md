@@ -7,6 +7,10 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 - [Setting up Jupyter Notebook on Colab](https://github.com/manisnesan/til/blob/master/colab/setting-up-jupyter-on-colab.md) - 23/09/2020
 - [Setting up VSCode on Colab](https://github.com/manisnesan/til/blob/master/colab/setting-up-vscode-on-colab-kaggle.md) - 10/09/2020
 
+## containers
+
+- [Uninstall Docker Engine](https://docs.docker.com/engine/install/fedora/#uninstall-docker-engine) - 18/11/2021
+
 ## cuda 
 
 - [Run Tensorflow on GPU using CUDA](https://github.com/manisnesan/til/blob/master/cuda/tensorflow-on-gpu.md#run-tensorflow-on-gpu-using-nvidia-cuda) - 16/11/2020
@@ -26,6 +30,10 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 ## information-retrieval
 
 - [IR Datasets](https://github.com/manisnesan/til/blob/master/ir/information-retrieval-datasets.md) - 02/10/2021
+
+## linux
+
+- [How to clean up the Fedora root folder](https://developers.redhat.com/blog/2020/12/10/how-to-clean-up-the-fedora-root-folder#) - 18/11/2021 
 
 ## python
 
