@@ -31,6 +31,10 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 
 - [IR Datasets](https://github.com/manisnesan/til/blob/master/ir/information-retrieval-datasets.md) - 02/10/2021
 
+## java 
+
+- [Java 9 New Features](https://github.com/eugenp/tutorials/tree/master/core-java-modules/core-java-9-new-features) - 24/12/2021
+
 ## linux
 
 - [How to clean up the Fedora root folder](https://developers.redhat.com/blog/2020/12/10/how-to-clean-up-the-fedora-root-folder#) - 18/11/2021 
