@@ -10,6 +10,7 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 ## containers
 
 - [Uninstall Docker Engine](https://docs.docker.com/engine/install/fedora/#uninstall-docker-engine) - 18/11/2021
+- [Setting up docker compose for running rubrix service](https://github.com/manisnesan/til/blob/master/containers/setup-docker-compose-for-running-rubrix-data-labeling.md) - 07/01/2022
 
 ## cuda 
 
