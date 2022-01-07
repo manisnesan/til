@@ -56,6 +56,47 @@ rb.log(rb.TextClassificationRecord(inputs="My first Rubrix example"), name='exam
 - Run the script `python test.py`
 - Access the service at `http://localhost:6900` where you can see the example-dataset and the corresponding records. Read more about rubrix concepts [here](https://rubrix.readthedocs.io/en/stable/getting_started/concepts.html).
 
+- Faster Data Annotation with zero shot text classification (see [this](https://rubrix.readthedocs.io/en/stable/tutorials/zeroshot_data_annotation.html) for more info)
+  - Install the libraries `pip install rubrix==0.7.0 transformers datasets torch`
+ 
+  - This loads the first 100 examples from test split of news dataset and uses zero shot classifier to predict and log them to rubix 
+ ```python
+ # Example for Bootstraping data annotation with a zero-shot classifier
+
+# Requires rubrix, transformers, datasets and torch
+
+# Ingredients: zeroshot classifier, news dataset and target categories such as Business, Sports
+
+# 0. Imports
+from transformers import pipeline
+from datasets import load_dataset
+import rubrix as rb
+
+# Load the zero shot pretrained checkpoint
+model = pipeline('zero-shot-classification', model='typeform/squeezebert-mnli')
+
+# Load the dataset
+load_dataset
+dataset = load_dataset('ag_news', split='test[0:100]')
+
+# target categories
+labels = 'World Sports Business Sci/Tech'.split()
+
+for record in dataset:
+    
+    # make predictions
+    prediction = model(record['text'], labels)
+    
+    # log them into a Rubrix dataset
+    item = rb.TextClassificationRecord(
+        inputs=record['text'],
+        prediction=list(zip(prediction['labels'], prediction['scores'])),
+    )
+    rb.log(item, name='news_zeroshot')
+ ```
+
+- Then you can either handlabel or use a bulk-labeling approach (above a certain score, predictions from the model are correct).
+
 ## References
 
 - [1][Use Docker Compose with podman to orchestrate containers on fedora](https://fedoramagazine.org/use-docker-compose-with-podman-to-orchestrate-containers-on-fedora/)
