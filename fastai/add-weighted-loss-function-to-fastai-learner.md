@@ -32,3 +32,6 @@ learn_cls_tsk2.load_encoder('fine_tuned_enc')
 class_weights = torch.FloatTensor(weights).to(dls_cls_tsk2.device)
 learn_cls_tsk2.loss_func = CrossEntropyLossFlat(weight=class_weights)
 ```
+
+## Reference
+- [Discord Thread - fastai-help](https://discordapp.com/channels/689892369998676007/748330524556132364/754530946514026518)
