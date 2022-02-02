@@ -11,6 +11,7 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 
 - [Uninstall Docker Engine](https://docs.docker.com/engine/install/fedora/#uninstall-docker-engine) - 18/11/2021
 - [Setting up docker compose for running rubrix service](https://github.com/manisnesan/til/blob/master/containers/setup-docker-compose-for-running-rubrix-data-labeling.md) - 07/01/2022
+- [Building a python image with openjdk install using multistage builds](https://github.com/manisnesan/til/blob/master/containers/python-with-openjdk-container-image.md#building-a-python-image-with-openjdk-installed) - 02/02/2022
 
 ## cuda 
 
