@@ -49,7 +49,7 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 - [Readable and Maintainble Jupypter Notebooks](https://github.com/manisnesan/til/blob/master/python/readable-and-maintainable-jupyter-notebooks.md) - 11/10/2021
 - [Add CLI to your application using Typer](https://github.com/manisnesan/til/blob/master/python/cli-using-typer.md) - 28/10/2021
 - [Datetime Conversions](https://github.com/manisnesan/til/blob/master/python/datetime-conversions.md) - 02/11/2021
-
+- [fastcore: An Underrated Python Library - Hamel blogpost is a great tutorial to get started with fastcore](https://fastpages.fast.ai/fastcore/): My favorite parts are store_attr, @patch, @delegates - 07/03/2022
 
 ## pytorch
 
