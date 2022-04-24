@@ -43,6 +43,9 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 
 - [How to clean up the Fedora root folder](https://developers.redhat.com/blog/2020/12/10/how-to-clean-up-the-fedora-root-folder#) - 18/11/2021 
 
+## NLP
+- [Getting started with NLP for absolute beginners]() - 24/04/2022
+
 ## python
 
 - [Poetry first impressions](https://manisnesan.github.io/chrestotes/python/reproducibility/2021/01/09/poetry-first-impressions.html#key-requirements) - 09/01/2021
