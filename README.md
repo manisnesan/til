@@ -44,7 +44,7 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 - [How to clean up the Fedora root folder](https://developers.redhat.com/blog/2020/12/10/how-to-clean-up-the-fedora-root-folder#) - 18/11/2021 
 
 ## NLP
-- [Getting started with NLP for absolute beginners]() - 24/04/2022
+- [Getting started with NLP for absolute beginners](https://github.com/manisnesan/til/blob/master/nlp.md) - 24/04/2022
 
 ## python
 
