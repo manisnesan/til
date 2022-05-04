@@ -25,6 +25,7 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 
 ## fastai
 
+- [Use gradio and hf spaces for showcasing app built with fastai models](https://huggingface.co/spaces/msivanes/fastai_pet_classifier) - 03/05/2022
 - [fastdebug - In-place debugger for the fastai library and pytorch](https://github.com/muellerzr/fastdebug/tree/master/) - 20/01/2021
 - [Category Transforms with reversible mappings](https://github.com/manisnesan/til/blob/master/fastai/category-map-transforms.md) - 20/03/2021
 - [Application facing out of memory issues](https://github.com/manisnesan/til/blob/master/fastai/oom-in-application.md) - 16/12/2020
