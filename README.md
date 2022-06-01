@@ -39,6 +39,8 @@ Collection of Today I Learned snippets inspired from [simonw/til](https://github
 
 - [Java 9 New Features](https://github.com/eugenp/tutorials/tree/master/core-java-modules/core-java-9-new-features) - 24/12/2021
 - [Running Java in Jupyter Notebooks](https://gist.github.com/manisnesan/e23822bbc4889345330d201dea00f286) - 05/02/2021
+- [Setting Java Home environment variable](https://github.com/manisnesan/til/blob/master/java/setting-java-home-environment-variable.md) - 01/06/2022
+
 
 ## linux
 
