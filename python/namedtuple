@@ -1,6 +1,5 @@
 # Named Tuple
 
-
 Point = namedtuple('Point', ['x', 'y']
 p = Point(11, y=22) # instantiate
 
@@ -10,7 +9,28 @@ x, y = p >> x: 11, y:22 # unpack
 p.x + p.y >> 33 # field accessible by name
 p >> Point(x=11, y=22) #readable repr
 
+Practical Uses
 
+- Useful when assigning field names to rsult tuples returned by a csv or sqlite modules
+
+EmployeeRecord = namedtuple('EmployeeRecord', 'name, age, title, department, paygrade')
+
+import csv
+for emp in map(EmployeeRecord._make, csv.reader(open("employees.csv", "rb"))):
+    print(emp.name, emp.title)
+
+import sqlite3
+conn = sqlite3.connect('/companydata')
+cursor = conn.cursor()
+cursor.execute('SELECT name, age, title, department, paygrade FROM employees')
+for emp in map(EmployeeRecord._make, cursor.fetchall()):
+    print(emp.name, emp.title)
+
+_make(iterable)
+_as_dict()
+_replace()
+_fields
+_field_defaults
 
 
 
