@@ -1,0 +1,16 @@
+# Named Tuple
+
+
+Point = namedtuple('Point', ['x', 'y']
+p = Point(11, y=22) # instantiate
+
+p[0] + p[1] >> 33 # indexable
+x, y = p >> x: 11, y:22 # unpack
+
+p.x + p.y >> 33 # field accessible by name
+p >> Point(x=11, y=22) #readable repr
+
+
+
+
+
